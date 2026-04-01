@@ -42,7 +42,7 @@
     "type": "git",
     "url": "git+https://github.com/ramiidv/arca-sire.git"
   },
-  "homepage": "https://github.com/ramiidv/arca-sire#readme",
+  "homepage": "https://arca-sdk.dev/sire",
   "bugs": {
     "url": "https://github.com/ramiidv/arca-sire/issues"
   },
