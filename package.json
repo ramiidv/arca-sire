@@ -1,6 +1,6 @@
 {
   "name": "@ramiidv/arca-sire",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "TypeScript SDK para el web service SIRE (Sistema Integral de Retenciones Electronicas) de ARCA (ex AFIP)",
   "type": "module",
   "main": "dist/index.js",

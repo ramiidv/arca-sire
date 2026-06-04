@@ -192,14 +192,14 @@ describe('validatePeriodo', () => {
   });
 
   it('throws on month 00', () => {
-    expect(() => validatePeriodo('202600')).toThrow('Mes invalido');
+    expect(() => validatePeriodo('202600')).toThrow('mes invalido');
   });
 
   it('throws on month 13', () => {
-    expect(() => validatePeriodo('202613')).toThrow('Mes invalido');
+    expect(() => validatePeriodo('202613')).toThrow('mes invalido');
   });
 
   it('throws on month 99', () => {
-    expect(() => validatePeriodo('202699')).toThrow('Mes invalido');
+    expect(() => validatePeriodo('202699')).toThrow('mes invalido');
   });
 });
