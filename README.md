@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Repositorio archivado.** El desarrollo de `@ramiidv/arca-sire` sigue en el monorepo
+> [ramiidv/arca-sdks](https://github.com/ramiidv/arca-sdks/tree/main/packages/sire).
+> Desde la versión 0.4.0, el paquete se publica desde ahí. Los issues y PRs van en ese repo.
+
 # @ramiidv/arca-sire
 
 SDK de TypeScript para el web service **SIRE** de ARCA (ex AFIP): emisión y anulación de **certificados de retención electrónicos de IVA** (formulario C2005, RG 4523/2019).
